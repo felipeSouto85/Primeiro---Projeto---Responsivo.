@@ -53,6 +53,14 @@ img {
   color: #ffffff;
   cursor: pointer;
 }
+.primeiro-button:hover {
+  opacity: 0.8;
+}
+
+.primeiro-button:active {
+  opacity: 0.6;
+}
+
 
 h1 {
   width: 582px;
