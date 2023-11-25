@@ -51,6 +51,7 @@ img {
   line-height: 24px;
   letter-spacing: 1px;
   color: #ffffff;
+  cursor: pointer;
 }
 
 h1 {
